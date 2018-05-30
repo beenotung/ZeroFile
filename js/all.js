@@ -3091,6 +3091,7 @@ function(a){a=e.string(a)?B(a)[0]:a;return{path:a,value:a.getTotalLength()}};l.r
 
     Selector.prototype.uploadFile = function(file) {
       var ref;
+      /*
       if (file.size > 200 * 1024 * 1024) {
         Page.cmd("wrapperNotification", ["info", "Maximum file size on this site during the testing period: 200MB"]);
         return false;
@@ -3104,6 +3105,7 @@ function(a){a=e.string(a)?B(a)[0]:a;return{path:a,value:a.getTotalLength()}};l.r
         debugger;
         return false;
       }
+      */
       this.file_info = {};
       return this.checkContentJson((function(_this) {
         return function(res) {

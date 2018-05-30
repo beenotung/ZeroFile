@@ -1,10 +1,10 @@
 {
- "address": "1uPLoaDwKzP6MCGoVzw48r4pxawRBdmQc",
+ "address": "1UPLoBVpQ9eaUzc2WWDDhBF26pXmSQtc8",
  "address_index": 89091714,
  "background-color": "#FFF",
  "clone_root": "template-new",
- "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
- "description": "",
+ "cloned_from": "1uPLoaDwKzP6MCGoVzw48r4pxawRBdmQc",
+ "description": "Unlimited alternative of ZeroUp",
  "files": {
   "css/all.css": {
    "sha512": "7f6eeb8237ff82f91d7c9f2f5aca1fe44770a80f772f7ee96fff730e7e21cd40",
@@ -33,12 +33,10 @@
  "inner_path": "content.json",
  "modified": 1521855894,
  "postmessage_nonce_security": true,
- "signers_sign": "G92h5e3FmtEMZgSdewI3esFkw8ny/m9KuSQ0IwFgVMcafUaepy2HF0oiCYmYd2CVmZHGF45WAxBz6zxJEU1AngE=",
  "signs": {
-  "1uPLoaDwKzP6MCGoVzw48r4pxawRBdmQc": "G9hF20cxkjV89BGEAuNtCsxnJWqPYbwxg0He+vPxBI1qVGlE0ofBXjlv/2LeIASAA369BpwTXtJKL6OhYIYSxKE="
  },
- "signs_required": 1,
- "title": "ZeroUp",
+ "signs_required": 0,
+ "title": "ZeroFile",
  "translate": ["js/all.js"],
  "zeronet_version": "0.6.2"
 }
