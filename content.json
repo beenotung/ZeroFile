@@ -14,6 +14,10 @@
    "sha512": "7f6eeb8237ff82f91d7c9f2f5aca1fe44770a80f772f7ee96fff730e7e21cd40",
    "size": 174556
   },
+  "data-default/users/content-default.json": {
+   "sha512": "acef04b99c08a0483be7afbb34752291070c4cae175c291e163e0592daae3f54",
+   "size": 671
+  },
   "dbschema.json": {
    "sha512": "596519604f8d34d750da86ada7ab618499b9257e2db30af546725d8784f70e3d",
    "size": 978
@@ -35,9 +39,11 @@
   }
  },
  "inner_path": "content.json",
- "modified": 1527707172,
+ "modified": 1527708187,
  "postmessage_nonce_security": true,
+ "signers_sign": "HEY4mG5uKE9k690EHV0xFwSwoOwrzkgdPl7/ZpBIAiVSKhqKq/REXGVN9l1ENh3KqAXAN6/cFDLsueswW5dlJ7M=",
  "signs": {
+  "1UPLoBVpQ9eaUzc2WWDDhBF26pXmSQtc8": "Gyg5sDNi8Wn7q44mpKHdR0VmBbQvsP5WC6mcEdyLlByOJosygABf67EgNoGYZsbOQmG/5/PYBfEwoLS4eUt/T9w="
  },
  "signs_required": 1,
  "title": "ZeroFile",
