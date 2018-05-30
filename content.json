@@ -6,6 +6,10 @@
  "cloned_from": "1uPLoaDwKzP6MCGoVzw48r4pxawRBdmQc",
  "description": "Unlimited alternative of ZeroUp",
  "files": {
+  "README.adoc": {
+   "sha512": "73a3cedd6e075cf63ab038a26883bbdcc2ce5290d07c883c6efee071f59a07de",
+   "size": 248
+  },
   "css/all.css": {
    "sha512": "7f6eeb8237ff82f91d7c9f2f5aca1fe44770a80f772f7ee96fff730e7e21cd40",
    "size": 174556
@@ -15,12 +19,12 @@
    "size": 978
   },
   "index.html": {
-   "sha512": "86db9821b7bb669135416cefc255f57ea9f703e3c4061c184a4bb05751e8ef5d",
-   "size": 1124
+   "sha512": "a3ebf01bc3cbdb2e15de0635a2e6df53f7f905a12ff08f9c290a02aee614af3a",
+   "size": 1129
   },
   "js/all.js": {
-   "sha512": "d49e3f755953b5a1476bc4dd05df139e434d37005fb0bb875aa680b6d269ffe2",
-   "size": 136456
+   "sha512": "dc3a09d48fb7e2f48dae5efc4460af4600509b6cad41adeba325d9de5152ea38",
+   "size": 136474
   }
  },
  "ignore": "((js|css)/(?!all.(js|css))|data/.*|.git/.*|.gitignore)",
@@ -31,11 +35,11 @@
   }
  },
  "inner_path": "content.json",
- "modified": 1521855894,
+ "modified": 1527707172,
  "postmessage_nonce_security": true,
  "signs": {
  },
- "signs_required": 0,
+ "signs_required": 1,
  "title": "ZeroFile",
  "translate": ["js/all.js"],
  "zeronet_version": "0.6.2"
