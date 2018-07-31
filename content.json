@@ -14,10 +14,6 @@
    "sha512": "73a3cedd6e075cf63ab038a26883bbdcc2ce5290d07c883c6efee071f59a07de",
    "size": 248
   },
-  "README.md": {
-   "sha512": "1d0a4ba136c03f915e7e959923e3a407350d718b898610bcb0bfb44dcfd38d89",
-   "size": 40
-  },
   "css/all.css": {
    "sha512": "e8fe659ebb7a78042b5bfa9b295de1f24dad57d98d9cb81b3f0f1979f41138e4",
    "size": 175898
@@ -47,11 +43,11 @@
   }
  },
  "inner_path": "content.json",
- "modified": 1533067091,
+ "modified": 1533068172,
  "postmessage_nonce_security": true,
  "signers_sign": "HEY4mG5uKE9k690EHV0xFwSwoOwrzkgdPl7/ZpBIAiVSKhqKq/REXGVN9l1ENh3KqAXAN6/cFDLsueswW5dlJ7M=",
  "signs": {
-  "1UPLoBVpQ9eaUzc2WWDDhBF26pXmSQtc8": "G3EyGoFPZ6RF3CF69a+E4S7x+eaHrIBCHiCZKx/CufxAX92Ye4a4AE/vH9mxPKHheYhMeN0gilH/h3RaFuGXGt4="
+  "1UPLoBVpQ9eaUzc2WWDDhBF26pXmSQtc8": "HIWXbnSfhjSpvqYuPPdaknvoW1LAm/c+l38czVCL7lv5Nqn+yQwb6x+ueR+h5Yf4aE2C6F8598Y3C6m0UqLz5sQ="
  },
  "signs_required": 1,
  "title": "ZeroFile",
