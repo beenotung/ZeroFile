@@ -6,13 +6,21 @@
  "cloned_from": "1uPLoaDwKzP6MCGoVzw48r4pxawRBdmQc",
  "description": "Unlimited alternative of ZeroUp",
  "files": {
+  "LICENSE": {
+   "sha512": "552aec8d120c9d931769f6a6b794716fce978d0055715de21746dc0f064f4a0f",
+   "size": 35141
+  },
   "README.adoc": {
    "sha512": "73a3cedd6e075cf63ab038a26883bbdcc2ce5290d07c883c6efee071f59a07de",
    "size": 248
   },
+  "README.md": {
+   "sha512": "1d0a4ba136c03f915e7e959923e3a407350d718b898610bcb0bfb44dcfd38d89",
+   "size": 40
+  },
   "css/all.css": {
-   "sha512": "7f6eeb8237ff82f91d7c9f2f5aca1fe44770a80f772f7ee96fff730e7e21cd40",
-   "size": 174556
+   "sha512": "e8fe659ebb7a78042b5bfa9b295de1f24dad57d98d9cb81b3f0f1979f41138e4",
+   "size": 175898
   },
   "data-default/users/content-default.json": {
    "sha512": "acef04b99c08a0483be7afbb34752291070c4cae175c291e163e0592daae3f54",
@@ -23,12 +31,12 @@
    "size": 978
   },
   "index.html": {
-   "sha512": "a3ebf01bc3cbdb2e15de0635a2e6df53f7f905a12ff08f9c290a02aee614af3a",
-   "size": 1129
+   "sha512": "d1071d906a042ec26e30f0ae8c78b433f2bd40f6ae6bee32af07bbb8454185bf",
+   "size": 1321
   },
   "js/all.js": {
-   "sha512": "dc3a09d48fb7e2f48dae5efc4460af4600509b6cad41adeba325d9de5152ea38",
-   "size": 136474
+   "sha512": "2689d70950dc1f0966c1b45f66b8f91556282b2cb6e24ba0c0decc51e701f874",
+   "size": 138120
   }
  },
  "ignore": "((js|css)/(?!all.(js|css))|data/.*|.git/.*|.gitignore)",
@@ -39,11 +47,11 @@
   }
  },
  "inner_path": "content.json",
- "modified": 1533065562,
+ "modified": 1533067091,
  "postmessage_nonce_security": true,
  "signers_sign": "HEY4mG5uKE9k690EHV0xFwSwoOwrzkgdPl7/ZpBIAiVSKhqKq/REXGVN9l1ENh3KqAXAN6/cFDLsueswW5dlJ7M=",
  "signs": {
-  "1UPLoBVpQ9eaUzc2WWDDhBF26pXmSQtc8": "HF0sIUoxnoraVzEthKbVmtvbCSSKBU5EVZnh/7BtXykqRB+pv45vlpS2evxUYZPcjtpfcpfXWl91ho+hn5CJLRE="
+  "1UPLoBVpQ9eaUzc2WWDDhBF26pXmSQtc8": "G3EyGoFPZ6RF3CF69a+E4S7x+eaHrIBCHiCZKx/CufxAX92Ye4a4AE/vH9mxPKHheYhMeN0gilH/h3RaFuGXGt4="
  },
  "signs_required": 1,
  "title": "ZeroFile",
