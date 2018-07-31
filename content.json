@@ -39,11 +39,11 @@
   }
  },
  "inner_path": "content.json",
- "modified": 1527708187,
+ "modified": 1533065562,
  "postmessage_nonce_security": true,
  "signers_sign": "HEY4mG5uKE9k690EHV0xFwSwoOwrzkgdPl7/ZpBIAiVSKhqKq/REXGVN9l1ENh3KqAXAN6/cFDLsueswW5dlJ7M=",
  "signs": {
-  "1UPLoBVpQ9eaUzc2WWDDhBF26pXmSQtc8": "Gyg5sDNi8Wn7q44mpKHdR0VmBbQvsP5WC6mcEdyLlByOJosygABf67EgNoGYZsbOQmG/5/PYBfEwoLS4eUt/T9w="
+  "1UPLoBVpQ9eaUzc2WWDDhBF26pXmSQtc8": "HF0sIUoxnoraVzEthKbVmtvbCSSKBU5EVZnh/7BtXykqRB+pv45vlpS2evxUYZPcjtpfcpfXWl91ho+hn5CJLRE="
  },
  "signs_required": 1,
  "title": "ZeroFile",
