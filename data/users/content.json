@@ -15,8 +15,7 @@
   },
   "permission_rules": {
    ".*": {
-    "files_allowed": "data.json",
-    "max_size": 1048576
+    "files_allowed": "data.json"
    }
   },
   "permissions": {

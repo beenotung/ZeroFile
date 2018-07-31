@@ -1,2 +1,11 @@
-zeroup.db
+# Hidden files
+.*
+!/.gitignore
+!/.travis.yml
+
+
+# Database
+*.db
+
+# Data
 data/
