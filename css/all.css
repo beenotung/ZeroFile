@@ -426,3 +426,19 @@ textarea:focus { outline: none; border-color: #AAA }
     height: 9px; width: 9px; border: 1.5px solid currentColor; margin-top: 13px; pointer-events: none; margin-left: 7px;
 }
 .icon-magnifier:after { content: ""; height: 1.8px; width: 6px; background: currentColor; position: absolute; top: 10px; left: 7px; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -o-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg) ; }
+
+.alternatives {
+  margin: 4px;
+}
+.alternatives h3,ul{
+  margin-top: .25em;
+  margin-bottom: .25em;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+}
